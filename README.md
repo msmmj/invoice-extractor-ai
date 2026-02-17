@@ -154,8 +154,7 @@ Data Analyst | Melbourne, Australia
 Building AI solutions for real business problems
 
 
-
-\u[LinkedIn](https://www.linkedin.com/in/maxson-stephen-mathew-98a000188/) | \u[Portfolio](https://msmmj.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/maxson-stephen-mathew-98a000188/) | [Portfolio](https://msmmj.github.io/portfolio/)
 
 
 
