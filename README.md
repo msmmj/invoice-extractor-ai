@@ -1,4 +1,4 @@
-\# 🧾 AI Invoice Data Extractor
+# 🧾 AI Invoice Data Extractor
 
 
 
@@ -6,7 +6,7 @@ Automatically extract structured data from invoice PDFs using Retrieval-Augmente
 
 
 
-\## 🎯 Problem Solved
+## 🎯 Problem Solved
 
 
 
@@ -14,7 +14,7 @@ Manual invoice data entry is time-consuming, error-prone, and costs businesses t
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
