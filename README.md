@@ -162,6 +162,5 @@ Building AI solutions for real business problems
 ## 🙏 Acknowledgments
 
 
-
 Built as a portfolio project to demonstrate practical AI/RAG application development.
 
