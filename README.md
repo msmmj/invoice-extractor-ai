@@ -49,7 +49,7 @@ Manual invoice data entry is time-consuming, error-prone, and costs businesses t
 
 ```bash
 
-\# Clone repository
+# Clone repository
 
 git remote add origin git@github.com:msmmj/invoice-extractor-ai.git
 
@@ -57,27 +57,25 @@ cd invoice-extractor-ai
 
 
 
-\# Create virtual environment
+# Create virtual environment
 
 python -m venv venv
 
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 
 
-
-\# Install dependencies
+# Install dependencies
 
 pip install -r requirements.txt
 
 
-
-\# Create .env file with your Groq API key
+# Create .env file with your Groq API key
 
 echo "GROQ\_API\_KEY=your\_key\_here" > .env
 
 
 
-\# Run the app
+# Run the app
 
 streamlit run app.py
 
@@ -131,17 +129,17 @@ streamlit run app.py
 
 ## 🔮 Future Enhancements
 
-\- \[ ] Batch processing multiple invoices
+\-  Batch processing multiple invoices
 
-\- \[ ] CSV export functionality
+\-  CSV export functionality
 
-\- \[ ] Database integration for invoice storage
+\-  Database integration for invoice storage
 
-\- \[ ] OCR for scanned/image-based PDFs
+\-  OCR for scanned/image-based PDFs
 
-\- \[ ] Duplicate invoice detection
+\-  Duplicate invoice detection
 
-\- \[ ] Multi-language support
+\-  Multi-language support
 
 
 
@@ -157,7 +155,7 @@ Building AI solutions for real business problems
 
 
 
-\[LinkedIn](https://www.linkedin.com/in/maxson-stephen-mathew-98a000188/) | \[Portfolio](https://msmmj.github.io/portfolio/)
+\u[LinkedIn](https://www.linkedin.com/in/maxson-stephen-mathew-98a000188/) | \u[Portfolio](https://msmmj.github.io/portfolio/)
 
 
 
