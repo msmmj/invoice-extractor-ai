@@ -87,7 +87,7 @@ streamlit run app.py
 
 
 
-1\. Visit \[console.groq.com](https://console.groq.com)
+1\. Visit [console.groq.com](https://console.groq.com)
 
 2\. Sign up (no credit card required)
 
