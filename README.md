@@ -30,37 +30,28 @@ Manual invoice data entry is time-consuming, error-prone, and costs businesses t
 
 
 
-\## 🚀 Tech Stack
+## 🚀 Tech Stack
 
 
 
-\- \*\*LangChain\*\*: RAG orchestration framework
+\- **LangChain**: RAG orchestration framework
 
-\- \*\*Groq API\*\*: Free LLM inference (Llama 3.3 70B)
+\- **Groq API**: Free LLM inference (Llama 3.3 70B)
 
-\- \*\*PyMuPDF\*\*: PDF text extraction
+\- **PyMuPDF**: PDF text extraction
 
-\- \*\*Streamlit\*\*: Web interface
+\- **Streamlit**: Web interface
 
-\- \*\*Python\*\*: Core logic
-
-
-
-\## 📸 Demo
+\- **Python**: Core logic
 
 
-
-\[Add screenshots here after deployment]
-
-
-
-\## 🛠️ Installation
+## 🛠️ Installation
 
 ```bash
 
 \# Clone repository
 
-git clone https://github.com/YOUR\_USERNAME/invoice-extractor-ai.git
+git remote add origin git@github.com:msmmj/invoice-extractor-ai.git
 
 cd invoice-extractor-ai
 
@@ -94,7 +85,7 @@ streamlit run app.py
 
 
 
-\## 🔑 Getting a Free Groq API Key
+## 🔑 Getting a Free Groq API Key
 
 
 
@@ -108,9 +99,7 @@ streamlit run app.py
 
 
 
-\## 🎓 Key Learnings
-
-
+## 🎓 Key Learnings
 
 \- Building RAG pipelines for document processing
 
@@ -124,7 +113,7 @@ streamlit run app.py
 
 
 
-\## 💡 Use Cases
+## 💡 Use Cases
 
 
 
@@ -140,9 +129,7 @@ streamlit run app.py
 
 
 
-\## 🔮 Future Enhancements
-
-
+## 🔮 Future Enhancements
 
 \- \[ ] Batch processing multiple invoices
 
@@ -158,11 +145,11 @@ streamlit run app.py
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
-\*\*Maxson Stephen Mathew\*\*  
+**Maxson Stephen Mathew**  
 
 Data Analyst | Melbourne, Australia  
 
@@ -174,9 +161,7 @@ Building AI solutions for real business problems
 
 
 
-
-
-\## 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 
 
