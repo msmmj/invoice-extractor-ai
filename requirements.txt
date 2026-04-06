@@ -1,4 +1,4 @@
-streamlit==1.42.0
+streamlit
 langchain==1.2.10
 langchain-core==1.2.25
 langchain-groq==1.1.2
@@ -15,12 +15,12 @@ sentence-transformers==5.3.0
 PyMuPDF==1.27.1
 python-dotenv==1.2.1
 groq==0.37.1
-pandas==2.3.3
-numpy==2.4.2
+pandas
+numpy
 pydantic==2.12.5
-requests==2.32.5
-packaging==26.0
-pillow==12.1.1
+requests
+pillow
 tenacity==9.1.4
-PyYAML==6.0.3
-typing_extensions==4.15.0
+PyYAML
+typing_extensions
+packaging
